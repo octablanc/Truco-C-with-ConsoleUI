@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1573057190 source:c:\users\octa\documents\tsp\tp final 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<pthread.h>
+	"Usuarios.h"
+	"Visual.h"
+	"Cartas.h"
+	"CeldaMazo.h"
+
+1571922392 c:\users\octa\documents\tsp\tp final 2\cartas.h
+	"Usuarios.h"
+
+1572603247 source:c:\users\octa\documents\tsp\tp final 2\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Usuarios.h"
+
+1572737858 c:\users\octa\documents\tsp\tp final 2\usuarios.h
+	<stdio.h>
+
+1572784065 source:c:\users\octa\documents\tsp\tp final 2\cartas.c
+	<stdio.h>
+	<stdlib.h>
+	"Cartas.h"
+
+1558817312 source:c:\users\octa\documents\tsp\tp final 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573059029 source:c:\users\octa\documents\tsp\tp final 2\visual.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"Cartas.h"
+	"Pila.h"
+	"CeldaMazo.h"
+	"gotoxy.h"
+
+1558548304 c:\users\octa\documents\tsp\tp final 2\gotoxy.h
+
+1573057189 c:\users\octa\documents\tsp\tp final 2\visual.h
+
+1572787392 source:c:\users\octa\documents\tsp\tp final 2\celdamazo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"CeldaMazo.h"
+	"Cartas.h"
+
+1571922740 c:\users\octa\documents\tsp\tp final 2\celdamazo.h
+	"Usuarios.h"
+	"Cartas.h"
+	"Pila.h"
+
+1572736606 source:c:\users\octa\documents\tsp\tp final 2\pila.c
+	"Pila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1572736606 c:\users\octa\documents\tsp\tp final 2\pila.h
+	"Cartas.h"
+
